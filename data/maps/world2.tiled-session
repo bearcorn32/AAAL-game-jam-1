@@ -1,0 +1,278 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "world3.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/framu4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/323232.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/7777777777.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/8989898998.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/Erkaya.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/GameJamAAAL.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/Gerçek Tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/Objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/ananananan.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu1222.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu18.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu322222222.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/lastfram1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/lastfram3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/lastfram4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/lastfram5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/lastfram6.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/lastfram7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/lastroadframes.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/pixil-frame-0 (1).tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/pixil-frame-0 (14).tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/pixil-frame-0.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/randomtiled.tmx": {
+            "scale": 1.175625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 479.74481658692184,
+                "y": 21.26528442317914
+            }
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/world_tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/yesdıgıdık.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Bearcorn/Downloads/world..tmx": {
+            "expandedObjectLayers": [
+                4,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 762.6666666666667,
+                "y": 1585.333333333333
+            }
+        },
+        "Saturn Boss Arena.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1515.151515151515,
+                "y": 800
+            }
+        },
+        "Saturn Boss Arena.tmx#pixil-frame-0": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.14215073529411765,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2722.4621750937545,
+                "y": 2722.4621750937545
+            }
+        },
+        "world.tmx": {
+            "expandedObjectLayers": [
+                4,
+                6,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 862.6666666666667,
+                "y": 1532
+            }
+        },
+        "world2.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2912.121212121212,
+                "y": 6000
+            }
+        },
+        "world3.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2480,
+                "y": 3780
+            }
+        },
+        "world4.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2412,
+                "y": 3428
+            }
+        },
+        "world5.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7892,
+                "y": 2804
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Bearcorn/Downloads",
+    "last.imagePath": "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/graphics/tilesets",
+    "map.height": 170,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 170,
+    "openFiles": [
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu6.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu18.tsx",
+        "world.tmx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/Erkaya.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu4.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu1.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu6.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu1222.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu322222222.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/323232.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/yesdıgıdık.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/8989898998.tsx",
+        "world5.tmx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/7777777777.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/ananananan.tsx",
+        "world4.tmx",
+        "world3.tmx",
+        "world2.tmx"
+    ],
+    "project": "world2.tiled-project",
+    "recentFiles": [
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu6.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu18.tsx",
+        "world.tmx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/Erkaya.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu4.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu1.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu1222.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/framu322222222.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/323232.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/yesdıgıdık.tsx",
+        "C:/Users/Bearcorn/Desktop/AAALgamejam-1/data/tilesets/8989898998.tsx",
+        "world5.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
